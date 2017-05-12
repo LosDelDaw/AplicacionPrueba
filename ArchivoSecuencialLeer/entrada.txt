@@ -1,0 +1,6 @@
+Probando buffer
+Lectura
+Linea 3
+
+
+Ultima linea
